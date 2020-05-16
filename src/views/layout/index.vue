@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-view></router-view>
+      layout页面
   </div>
 </template>
 
@@ -11,5 +11,6 @@ export default {
 </script>
 
 <style>
-
+/* @import url('../../styles/font.css'); */
+@import "~@/styles/font.css"
 </style>
